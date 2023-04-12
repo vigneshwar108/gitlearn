@@ -1,0 +1,21 @@
+git init
+git status
+git log what commits did you done all history is given
+
+git ls -a to see all hidden files also
+git add chp.txt stagting
+
+to add all files at ones
+git add .
+
+git commit -m "msg" 
+git diff filename.txt
+git checkout filename.txt
+
+git remote add origin https://github.com/vigneshwar108/gitlearn.git
+git push -u origin master push local repo to remote 
+
+
+git branch  show all branches and where u are present
+git checkout master go back to master branch
+
